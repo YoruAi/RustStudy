@@ -5,3 +5,4 @@ edition = "2024"
 publish.workspace = true
 
 [dependencies]
+rand = "0.8.5"
