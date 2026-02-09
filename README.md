@@ -2,7 +2,7 @@
 
 ### Author: YoruAi
 
-**Introduction**: This is a note about reading *The Rust Programming Language* (see https://github.com/rust-lang/book).
+**Introduction**: This is a note about reading *The Rust Programming Language* (see https://github.com/rust-lang/book and https://doc.rust-lang.org/book/).
 The Rust version is **2024Edition 1.93.0**, and the IDE is RustRover.
 
 Partial code programs are only for display purposes, so their runnability cannot be guaranteed.
