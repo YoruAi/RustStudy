@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "RustStudy"
+name = "chapter01-helloworld"
 version = "0.1.0"
