@@ -1,7 +1,12 @@
 [workspace]
 members = [
-    "chapter01-helloworld",
-    "chapter02-guessing-game", "chapter03-common-concepts", "chapter04-ownership"]
+    "chapter01-helloworld"
+    , "chapter02-guessing-game"
+    , "chapter03-common-concepts"
+    , "chapter04-ownership"
+    , "chapter05-structs"
+    , "chapter06-enum-and-match"
+    , "chapter07-crate-and-modules"]
 resolver = "3"
 
 [workspace.package]

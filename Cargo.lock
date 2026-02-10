@@ -28,6 +28,18 @@ name = "chapter04-ownership"
 version = "0.1.0"
 
 [[package]]
+name = "chapter05-structs"
+version = "0.1.0"
+
+[[package]]
+name = "chapter06-enum-and-match"
+version = "0.1.0"
+
+[[package]]
+name = "chapter07-crate-and-modules"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.2.17"
 source = "registry+https://github.com/rust-lang/crates.io-index"

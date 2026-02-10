@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter02-guessing-game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter03-common-concepts/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter04-ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter05-structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter06-enum-and-match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter07-crate-and-modules/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
