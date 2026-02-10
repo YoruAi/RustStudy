@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter01-helloworld/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter02-guessing-game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter03-common-concepts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter04-ownership/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
