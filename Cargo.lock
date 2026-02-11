@@ -40,6 +40,10 @@ name = "chapter07-crate-and-modules"
 version = "0.1.0"
 
 [[package]]
+name = "chapter08-collections"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.2.17"
 source = "registry+https://github.com/rust-lang/crates.io-index"

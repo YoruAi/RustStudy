@@ -2,5 +2,8 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="NewCrateVersionAvailable" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="RsDuplicateHashKey" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES">
+      <scope name="Open Files" level="WEAK WARNING" enabled="false" editorAttributes="INFO_ATTRIBUTES" />
+    </inspection_tool>
   </profile>
 </component>
