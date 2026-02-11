@@ -1,3 +1,5 @@
+pub mod new_mod;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, ch07!");
 }
