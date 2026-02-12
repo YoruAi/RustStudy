@@ -1,0 +1,7 @@
+[package]
+name = "chapter10-generic-traits-lifetimes"
+version = "0.1.0"
+edition = "2024"
+publish.workspace = true
+
+[dependencies]
