@@ -8,7 +8,7 @@ members = [
     , "chapter06-enum-and-match"
     , "chapter07-crate-and-modules"
     , "chapter08-collections"
-]
+    , "chapter09-error"]
 resolver = "3"
 
 [workspace.package]

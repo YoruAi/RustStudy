@@ -5,5 +5,9 @@
     <inspection_tool class="RsDuplicateHashKey" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES">
       <scope name="Open Files" level="WEAK WARNING" enabled="false" editorAttributes="INFO_ATTRIBUTES" />
     </inspection_tool>
+    <inspection_tool class="RsLiveness" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="false" />
+    </inspection_tool>
+    <inspection_tool class="RsUnusedMustUse" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
   </profile>
 </component>

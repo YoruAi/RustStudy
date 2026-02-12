@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter06-enum-and-match/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter07-crate-and-modules/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter08-collections/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter09-error/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
