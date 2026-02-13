@@ -10,7 +10,8 @@ members = [
     , "chapter08-collections"
     , "chapter09-error"
     , "chapter10-generic-traits-lifetimes"
-    , "chapter11-tests"]
+    , "chapter11-tests"
+    , "chapter12-io-project"]
 resolver = "3"
 
 [workspace.package]
