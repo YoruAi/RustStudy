@@ -10,3 +10,5 @@ Partial code programs are only for display purposes, so their runnability cannot
 ---
 
 **Learning...**
+
+[![wakatime](https://wakatime.com/badge/user/a043e842-cadf-4159-83cf-53e58cb1748b/project/37fe5c93-0078-426c-b612-3d540e2d2ece.svg)](https://wakatime.com/badge/user/a043e842-cadf-4159-83cf-53e58cb1748b/project/37fe5c93-0078-426c-b612-3d540e2d2ece)
