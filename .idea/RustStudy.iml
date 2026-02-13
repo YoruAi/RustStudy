@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter08-collections/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter09-error/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter10-generic-traits-lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter11-tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter11-tests/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
