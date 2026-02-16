@@ -13,7 +13,8 @@ members = [
     , "chapter11-tests"
     , "chapter12-io-project"
     , "chapter13-functional-features"
-    , "chapter14-cargo"]
+    , "chapter14-cargo"
+    , "chapter15-smart-pointer"]
 resolver = "3"
 
 [workspace.package]
