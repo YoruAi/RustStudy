@@ -97,11 +97,11 @@ name = "chapter05-structs"
 version = "0.1.0"
 
 [[package]]
-name = "chapter06-enum-and-match"
+name = "chapter06-enums-and-match"
 version = "0.1.0"
 
 [[package]]
-name = "chapter07-crate-and-modules"
+name = "chapter07-crates-and-modules"
 version = "0.1.0"
 
 [[package]]
@@ -152,6 +152,10 @@ dependencies = [
 
 [[package]]
 name = "chapter18-object-oriented"
+version = "0.1.0"
+
+[[package]]
+name = "chapter19-patterns-and-matching"
 version = "0.1.0"
 
 [[package]]

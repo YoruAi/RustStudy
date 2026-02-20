@@ -1,5 +1,5 @@
 [package]
-name = "chapter06-enum-and-match"
+name = "chapter06-enums-and-match"
 version = "0.1.0"
 edition = "2024"
 publish.workspace = true

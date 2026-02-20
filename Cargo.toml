@@ -5,8 +5,8 @@ members = [
     , "chapter03-common-concepts"
     , "chapter04-ownership"
     , "chapter05-structs"
-    , "chapter06-enum-and-match"
-    , "chapter07-crate-and-modules"
+    , "chapter06-enums-and-match"
+    , "chapter07-crates-and-modules"
     , "chapter08-collections"
     , "chapter09-error"
     , "chapter10-generic-traits-lifetimes"
@@ -17,7 +17,8 @@ members = [
     , "chapter15-smart-pointer"
     , "chapter16-concurrency"
     , "chapter17-async-await"
-    , "chapter18-object-oriented"]
+    , "chapter18-object-oriented"
+    , "chapter19-patterns-and-matching"]
 resolver = "3"
 
 [workspace.package]
