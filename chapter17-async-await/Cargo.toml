@@ -1,0 +1,8 @@
+[package]
+name = "chapter17-async-await"
+version = "0.1.0"
+edition = "2024"
+publish.workspace = true
+
+[dependencies]
+trpl = "0.3.0"
