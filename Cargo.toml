@@ -16,7 +16,8 @@ members = [
     , "chapter14-cargo"
     , "chapter15-smart-pointer"
     , "chapter16-concurrency"
-    , "chapter17-async-await"]
+    , "chapter17-async-await"
+    , "chapter18-object-oriented"]
 resolver = "3"
 
 [workspace.package]
