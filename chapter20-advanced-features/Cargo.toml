@@ -1,0 +1,10 @@
+[package]
+name = "chapter20-advanced-features"
+version = "0.1.0"
+edition = "2024"
+publish.workspace = true
+
+[dependencies]
+hello-macro-derive = { path = "hello-macro-derive" }
+hello-macro-attribute = { path = "hello-macro-attribute" }
+hello-macro-function = { path = "hello-macro-function" }

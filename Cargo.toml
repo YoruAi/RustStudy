@@ -18,7 +18,11 @@ members = [
     , "chapter16-concurrency"
     , "chapter17-async-await"
     , "chapter18-object-oriented"
-    , "chapter19-patterns-and-matching"]
+    , "chapter19-patterns-and-matching"
+    , "chapter20-advanced-features"
+    , "chapter20-advanced-features/hello-macro-derive"
+    , "chapter20-advanced-features/hello-macro-attribute"
+    , "chapter20-advanced-features/hello-macro-function"]
 resolver = "3"
 
 [workspace.package]
