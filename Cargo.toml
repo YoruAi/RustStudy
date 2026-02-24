@@ -22,7 +22,8 @@ members = [
     , "chapter20-advanced-features"
     , "chapter20-advanced-features/hello-macro-derive"
     , "chapter20-advanced-features/hello-macro-attribute"
-    , "chapter20-advanced-features/hello-macro-function"]
+    , "chapter20-advanced-features/hello-macro-function"
+    , "chapter21-web-server-project"]
 resolver = "3"
 
 [workspace.package]
