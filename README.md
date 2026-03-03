@@ -9,6 +9,8 @@ You can use `rustup docs --book` to view the book too.
 
 Partial code programs are only for display purposes, so their runnability cannot be guaranteed.
 
+In addition to the Rust book learning notes, this project also includes **Rocket web framework learning notes** in the `rocket-web-application` crate.
+
 ---
 
 **Done**
